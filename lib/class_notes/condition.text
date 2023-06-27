@@ -1,0 +1,72 @@
+Types of condition:
+
+if condition
+if-else condition
+if-else-if-condition
+switch case 
+
+
+if condition : this if statement allows us to execute a code bloc when the given condition is true.
+
+if(condition){
+    statement 1
+    statement 2
+    statement 3
+
+
+}
+
+int age = 40;
+
+if(age < 50){
+    print("student age is below 40")
+}
+
+if-else condtion:
+
+if the result of the conditon is true. then the body of the if-condition is excuted. otherwise the body of the else condition excuted
+
+if(coditon){
+
+
+
+}else {
+
+
+}
+
+if-Else-if condition:
+
+if(condition) {
+
+
+}else if(codntion){
+
+}else if(condtion){
+
+}esle if(conditon){
+    
+}else{
+
+}
+
+//Switch case
+
+switch(expression)
+case value1:
+
+break;
+case value2:
+
+break;
+case value3:
+
+break;
+default:
+
+Ternary Operator:
+
+The Ternary Operator is like if-else statement 
+
+conditon ? exprifTrue : expifFalse ;
+
