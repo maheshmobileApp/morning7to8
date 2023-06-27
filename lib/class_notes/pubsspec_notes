@@ -1,0 +1,13 @@
+
+Name: Name of the app. Allowed characters are lower-case letters, numbers and underscrores
+
+Description: A short Description of the your app
+
+Publish_to: always none
+
+Version: 
+
+Environment: Specify the version lower and upper bound. 
+
+dependencies: List of all packages that your app needs to work
+

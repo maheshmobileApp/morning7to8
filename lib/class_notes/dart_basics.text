@@ -1,0 +1,20 @@
+
+Dart: Object-oriented programming language. 
+
+Flutter: is a Framework that uses dart programming language.
+
+void main(){
+    print("Hello World!");
+    
+}
+Void main() is the starting point where the execution of your program begins.
+every program starts with a main function
+
+the curyl braces {} represent the begining and ending of a bloc of code.
+
+Each code statement must end with a semicolon
+
+
+Variable: Dart variable 
+
+var name = "Dart"

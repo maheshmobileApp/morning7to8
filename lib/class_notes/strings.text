@@ -1,0 +1,25 @@
+
+Strings: It holds a series or sequence of characters- letters,numbers, and special characters. you can use single or double, or triple quotes to represent Strings
+
+Strings text1 = 'This is an example of a single-line string'
+Strings text2 = " This is an example of a single line string using double quotes";
+Strings text3 = """ This is a multile line 
+
+string using the triple-quotes.
+
+"""
+
+Propertis of string:
+
+IsEmpty : Returs true if this string is empty
+IsNotEmpty: Returns false if this string is empty
+length: returns the length of the string inclueds spaces,tabs and newline characters .
+
+Methods of String:
+
+toLowerCase(): Coverts all characters in this string to lowercase-> "FLutter" -> "flutter"
+toUpperCase(): Coverts all characters in this string to uppercase -> "flutter" -> "FLUTTER"
+trim(): returns the string without any leading and trailing whitespace-> "   Flutter dart    " -> "Flutter dart"
+replaceAll(): Replace all substrings that mataches the specific pattern with a given value -> "flutter version1" -> "flutter version2"
+split()-> Splits the string at matches of the specified delimiter and returns a list of strings ->"fluter ,dart  ,version ,mobile"-> split(",")->[flutter,dart,version,mobile]
+

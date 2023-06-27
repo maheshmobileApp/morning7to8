@@ -1,0 +1,32 @@
+
+The data type specifies what type of value will be stored by the varabile. 
+
+int a = 10; 
+
+Dart supports the following datatypes
+
+1. Numbers
+2. String 
+3. Booleans
+4.Lists
+5.Maps 
+6. Null 
+
+Numbers: it represents numberic values (int,double...)
+String: it represents a sequence of characters 
+Booleans: it repsents Booleans values true and false
+Lists: it is an ordered group of items 
+Maps: it represents a set of values as key-value pairs
+
+
+Comments:
+
+comments are the set of statements that are igonred by the dart compiler dugring program execution.
+
+Advantages of comments: 
+. you can describe your code 
+. Other people will understand your code more clearly 
+
+
+
+
