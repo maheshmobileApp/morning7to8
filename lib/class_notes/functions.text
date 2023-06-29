@@ -1,0 +1,47 @@
+Functions:
+
+Functions are the bloc of code that performs a specific task.
+They are created when some statements are repeatedly occuring in the program.
+The Functions helps reusability of the code in the program
+
+
+int a = 10;
+int b = 20;
+int c = a +b;
+print(c);
+
+
+int a = 30;
+int b = 60;
+int c = a +b;
+print(c);
+
+
+
+int a = 3067;
+int b = 608;
+int c = a +b;
+print(c);
+
+Advantages:
+
+Avoid code repetition
+Easy to divide the complex program into smaller parts
+Helps to write a clean code 
+
+Syntax:
+
+returntype functionName(parameter1,parameter2,.......){
+
+
+//function body 
+
+
+}
+
+Types of Functions 
+
+. No parameters and No return type
+. Parameters and No return type 
+. No parameters and return type
+. Parameters and return type 

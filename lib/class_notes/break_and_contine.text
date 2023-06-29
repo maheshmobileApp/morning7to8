@@ -1,0 +1,6 @@
+
+In the loop we need to skip some elements or terminate the loop immediately without check the condition, you can you use the break and continue statement 
+
+
+Break Statement:
+

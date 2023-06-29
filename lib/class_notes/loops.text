@@ -1,0 +1,27 @@
+Loops:
+
+In programming loops are used to repeat a block of code until certain condition fail.
+
+if you want to print your name 100 times, then rather than typing print("") 1000 times, you can use a loops .
+
+There are differnt types of loops in dart.
+
+1. For loops
+2.For each Loops
+3. While loop 
+4.Do While loop 
+
+For Loop:
+
+for(initialization;condition;increment/decrement){
+    statement 
+}
+
+For Each Loop:
+
+The for each loop iterates over all elements or vaiable. it is useful when you want to loop through list/collection.
+
+List<String> names = ["Mahesh","sukesh","hair","Mohan","minna","ajit"]
+
+  names.forEach((element) {});
+

@@ -3,7 +3,7 @@ import 'dart:async';
 void main() {
   int age = 20;
   if (age >= 18) {
-    print("You are voter.");
+    print('don\'t');
   }
   bool ageCondition = age >= 18;
   if (ageCondition) {
