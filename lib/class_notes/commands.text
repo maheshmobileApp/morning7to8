@@ -1,0 +1,7 @@
+
+flutter doctor -> 
+flutter create project_name -> 
+flutter run -> 
+flutter pub get -> 
+
+flutter run -d chrome 

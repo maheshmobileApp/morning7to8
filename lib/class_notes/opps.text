@@ -1,0 +1,40 @@
+class : class is a blueprint of the object. A class defines the properties and methods that an object will have.
+
+Declare class:
+
+you can declare a class in dart using the class keyword followed by class name and braces {};
+
+class name should in PascalCase 
+
+class ClassName {
+//Propertis
+//methods or function
+
+}
+
+class Student extends superClass{
+ String name;
+ String phoneNumber;
+ int age;
+
+ void displayTheData(){
+
+ }
+
+
+}
+
+//create object for the class
+
+className objectName = ClassName()
+
+//Constructor : this is special method used to intilize the an object. 
+
+class className {
+ 
+    className(){
+        //body of the Constructor
+    }
+}
+
+

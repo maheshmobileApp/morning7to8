@@ -1,0 +1,22 @@
+
+
+1. List 
+2. Map 
+3. Set 
+
+
+
+List: if you want to store multiple value in same  variable. you can use List(Array).
+
+Create List:
+
+List<int> marks = [12,13,24,90];
+List<String> names = ["sudheer","mahesh"]
+List<dynamic> values = []
+
+
+Map: In a Map is Stored as key and values. each key must be unique. 
+
+Map<String,dynamic> mapobject = {"name": "flutter","age":10,"address":"hyd" }
+
+//Set is unique collection of items 

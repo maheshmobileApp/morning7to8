@@ -1,0 +1,26 @@
+Widgets are two types
+
+1. StatefullWidget
+2. StatelessWidget 
+
+//lib/main.dart file is the entry point of the flutter app 
+//main() -> in main.dart entry method is main 
+
+
+//lib/main.dart->main()->
+
+Container-> div 
+Text
+TextField
+TextButton
+Column
+Row
+SingleChildScroolview
+Scaffold
+Listview
+Iconbutton
+padding 
+Card 
+ListTile 
+
+
