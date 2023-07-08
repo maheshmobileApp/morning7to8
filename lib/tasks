@@ -1,11 +1,11 @@
 
-24/june
+
 
 1. Create simple dart program and run in vs code
 2. Read about DataType and prepare the notes
 3. Read about Operators and execute the program with examples 
 
-26/june
+
 4. Write a program in dart to remove all whitespaces from string.
 5. Write a dart program to convert string to int
 6. Practice the string methods
@@ -15,4 +15,5 @@
 10.Write a program in dart print your own name using  function
 11.Write a program in dart to reverse a string using function
 12.write a program in dart that generated randam password
-
+13. Create a flutter app load the one container in Scaffold ( container w =300,h =350,child, alinemet : center, color:blue)
+14. Load the 5 containers in Column 

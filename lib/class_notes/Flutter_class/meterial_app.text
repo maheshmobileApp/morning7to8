@@ -1,0 +1,8 @@
+MatrialApp is main and core componenet in flutter. 
+
+Propertis of MaterialApp 
+
+title - > "Flutter class"
+home -> load the intial page 
+routes->
+initalroutes-> 

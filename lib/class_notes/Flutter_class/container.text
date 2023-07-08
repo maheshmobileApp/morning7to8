@@ -1,0 +1,18 @@
+
+Container: 
+
+Container widget is same as <div> tag in html.
+if this widget does not cotian any child widget, 
+it will fill the whole area on the screen automatically.
+
+it will wrap the child widget according too the s
+
+Child:
+color
+height and Width 
+margin : this margin used to surround the empty space around the container 
+padding: this property is used to set the distance between border of container .
+
+decoration: 
+
+This property allows to add the decoration on the widget

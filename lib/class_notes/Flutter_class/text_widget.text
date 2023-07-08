@@ -1,0 +1,81 @@
+
+Text: This widget Dispalys a string of text with single style.
+texAlign:
+style 
+
+ this.style,
+    this.strutStyle,
+    this.textAlign,
+    this.textDirection,
+    this.locale,
+    this.softWrap,
+    this.overflow,
+    this.textScaleFactor,
+    this.maxLines,
+    this.semanticsLabel,
+    this.textWidthBasis,
+    this.textHeightBehavior,
+    this.selectionColor,
+
+
+    TextStyle
+
+     this.color,
+    this.backgroundColor,
+    this.fontSize,
+    this.fontWeight,
+    this.fontStyle,
+    this.letterSpacing,
+    this.wordSpacing,
+    this.textBaseline,
+    this.height,
+    this.leadingDistribution,
+    this.locale,
+    this.foreground,
+    this.background,
+    this.shadows,
+    this.fontFeatures,
+    this.fontVariations,
+    this.decoration,
+    this.decorationColor,
+    this.decorationStyle,
+    this.decorationThickness,
+    this.debugLabel,
+    String? fontFamily,
+    List<String>? fontFamilyFallback,
+    String? package,
+
+    FontWeight:
+
+    /// Thin, the least thick
+  static const FontWeight w100 = FontWeight._(0, 100);
+
+  /// Extra-light
+  static const FontWeight w200 = FontWeight._(1, 200);
+
+  /// Light
+  static const FontWeight w300 = FontWeight._(2, 300);
+
+  /// Normal / regular / plain
+  static const FontWeight w400 = FontWeight._(3, 400);
+
+  /// Medium
+  static const FontWeight w500 = FontWeight._(4, 500);
+
+  /// Semi-bold
+  static const FontWeight w600 = FontWeight._(5, 600);
+
+  /// Bold
+  static const FontWeight w700 = FontWeight._(6, 700);
+
+  /// Extra-bold
+  static const FontWeight w800 = FontWeight._(7, 800);
+
+  /// Black, the most thick
+  static const FontWeight w900 = FontWeight._(8, 900);
+
+  /// The default font weight.
+  static const FontWeight normal = w400;
+
+  /// A commonly used font weight that is heavier than normal.
+  static const FontWeight bold = w700;
