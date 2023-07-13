@@ -1,0 +1,10 @@
+
+Login Form validation
+
+//email
+//password 
+
+1. check the textfield text is empty or not 
+2. email mahesh@gmail.com 
+3. password check the text is empty or not
+4. check the required input format uper,lower,spec 

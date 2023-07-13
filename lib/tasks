@@ -17,3 +17,18 @@
 12.write a program in dart that generated randam password
 13. Create a flutter app load the one container in Scaffold ( container w =300,h =350,child, alinemet : center, color:blue)
 14. Load the 5 containers in Column 
+15. Align the 5 items in column and apply the all property take the screen send me in group
+16. Create on form with below fields
+
+
+ User Name :-> min 2 max 30
+ Password: -> number,uppercase,special,lower case and minimu 6 characters
+ email ->
+ phone -> 
+ addres -> optional
+
+ Sign up button
+
+
+ 
+
