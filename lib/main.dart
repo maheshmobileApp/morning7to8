@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutterclass_7to8/Signup/SignupScreen.dart';
 
 import 'Login/Login.dart';
 
@@ -13,14 +14,19 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-          useMaterial3: true,
-        ),
-        home: Login());
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+      ),
+      initialRoute: "/login",
+      routes: {
+        "/login": (context) => Login(),
+        "/signup": (context) => SignupScreen(),
+      },
+    );
   }
 }
-
+//"/"
 //main -> runapp->myapp-> materialapp -> home -> scaffold -> body -> container
 // state full and state less

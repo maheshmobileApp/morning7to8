@@ -76,9 +76,7 @@ class _LoginState extends State<Login> {
                     controller: _passwordController,
                     validator: (value) {
                       if (value!.isEmpty) {
-                        
                         return "Please Enter Password";
-                      
                       } else {
                         return null;
                       }
@@ -99,6 +97,7 @@ class _LoginState extends State<Login> {
                       print("password value is ${_passwordController.text}");
                       if (formKey.currentState!.validate()) {
                         print("form is validated");
+                        Navigator.of(context).pushNamed("/signup");
                       } else {
                         print("Not valid");
                       }
